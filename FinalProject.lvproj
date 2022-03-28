@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CarSimulator.vi" Type="VI" URL="../CarSimulator.vi"/>
 		<Item Name="PID.vi" Type="VI" URL="../PID.vi"/>
+		<Item Name="Ramp.vi" Type="VI" URL="../Ramp.vi"/>
 		<Item Name="TopLevel.vi" Type="VI" URL="../TopLevel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
