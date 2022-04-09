@@ -14,6 +14,7 @@
 		<Item Name="PID.vi" Type="VI" URL="../PID.vi"/>
 		<Item Name="Ramp.vi" Type="VI" URL="../Ramp.vi"/>
 		<Item Name="TestGenerator.vi" Type="VI" URL="../TestGenerator.vi"/>
+		<Item Name="Tests.ctl" Type="VI" URL="../Tests.ctl"/>
 		<Item Name="TopLevel.vi" Type="VI" URL="../TopLevel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
